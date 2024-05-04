@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm ItzFezy</h1>
-![Static Badge](https://img.shields.io/badge/404-Internal_struction_breach-red)
 <h3 align="center">A Developer working on Minecraft plugins and servers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzfezy&label=Profile%20views&color=0e75b6&style=flat" alt="itzfezy" /> </p>
