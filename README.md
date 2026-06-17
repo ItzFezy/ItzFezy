@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="center">Connect with Me:</h3>
+<h3 align="center">📫 Contact</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jacob-casteel">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:JacobCurtisCasteel@gmail.com">JacobCurtisCasteel@gmail.com</a>
+  <code>JacobCurtisCasteel@gmail.com</code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
