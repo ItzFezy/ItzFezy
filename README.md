@@ -1,4 +1,3 @@
-```text Jacob Casteel```
 <h1 align="center">Hello, I'm Jacob Casteel</h1>
 <h3 align="center">A aspiring Software Developer</h3>
 
@@ -31,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzfezy&show_icons=true&locale=en" alt="itzfezy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzfezy&" alt="itzfezy" /></p>
+```text Jacob Casteel
