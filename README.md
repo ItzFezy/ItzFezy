@@ -28,6 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzfezy&show_icons=true&locale=en&layout=compact" alt="itzfezy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzfezy&show_icons=true&locale=en" alt="itzfezy" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzfezy&" alt="itzfezy" /></p>
-```text Jacob Casteel
